@@ -1,0 +1,7 @@
+{
+ "description": "SYNTHETIC 4-node test system. Invented numbers; not a real power system.",
+ "base_year": 2026,
+ "discount_rate": 0.08,
+ "voll_usd_mwh": 1500,
+ "ref_node": 3
+}

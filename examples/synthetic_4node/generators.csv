@@ -1,0 +1,6 @@
+name,node,type,mw,heat_rate,fuel_usd_mmbtu,vom,profile
+Gas CC A,3,thermal,450,7.0,6.0,3,
+Gas peaker B,1,thermal,200,10.5,6.0,6,
+Oil engines C,4,thermal,120,9.8,16.0,9,
+Solar E,4,solar,100,0.0,0.0,0,solar
+Wind F,1,wind,80,0.0,0.0,0,wind

@@ -1,0 +1,4 @@
+name,node,type,capex_usd_kw,life,max_mw,profile,heat_rate,fuel_usd_mmbtu,vom
+new_solar_4,4,solar,900,25,800,solar,,,
+new_wind_1,1,wind,1400,25,400,wind,,,
+new_ccgt_3,3,thermal,1100,30,600,,6.5,6.0,3.0
